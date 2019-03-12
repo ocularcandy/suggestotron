@@ -1,31 +1,13 @@
-
-
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.  
-
-This application was created following the steps outlined here:
+This application was created following the steps outlined here:  
 http://techlahoma-railsbridge.herokuapp.com/intro-to-rails/intro-to-rails
 
-Other things I should cover:
+Note: It is recommened to use rvm to manage your Ruby environments.  More information here: https://rvm.io/
 
-* Ruby version 
-2.5.3
+1) Ensure your rvm environment is running Ruby v2.5.3
+2) Clone this repo.   ``` git clone https://github.com/ocularcandy/suggestotron.git ```  
+3) Run  ``` bundle install ```  
+4) Run  ``` rails db:migrate ```  
+5) Check localhost:3000 in your web browser.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-
-* ...
+This app can be deployed to Heroku following these steps:  
+http://techlahoma-railsbridge.herokuapp.com/intro-to-rails/deploying_to_heroku
