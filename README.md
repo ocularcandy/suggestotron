@@ -1,11 +1,17 @@
+
+
 # README
 
 This README would normally document whatever steps are necessary to get the
-application up and running.
+application up and running.  
 
-Things you may want to cover:
+This application was created following the steps outlined here:
+http://techlahoma-railsbridge.herokuapp.com/intro-to-rails/intro-to-rails
 
-* Ruby version
+Other things I should cover:
+
+* Ruby version 
+2.5.3
 
 * System dependencies
 
@@ -20,5 +26,6 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
+
 
 * ...
