@@ -1,3 +1,5 @@
+In Prep for https://github.com/techlahoma/rails-okc-workshop
+
 This application was created following the steps outlined here:  
 http://techlahoma-railsbridge.herokuapp.com/intro-to-rails/intro-to-rails
 
